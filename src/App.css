@@ -196,3 +196,12 @@ button:active {
   text-align: center;
   font-size: 0.8em;
 }
+.read{
+  background-image: url('./icons/tick.svg');
+}
+.wantToRead{
+  background-image: url('./icons/heart.svg');
+}
+.currentlyReading{
+  background-image: url('./icons/book.svg');
+}
